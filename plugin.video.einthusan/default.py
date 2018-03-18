@@ -16,7 +16,7 @@ import requests
 
 # s = requests.Session()
 
-NUMBER_OF_PAGES = 3
+NUMBER_OF_PAGES = 2
 
 ADDON = xbmcaddon.Addon(id='plugin.video.einthusan')
 username = ADDON.getSetting('username')
